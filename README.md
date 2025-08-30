@@ -330,11 +330,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **React Community**: Amazing ecosystem and tooling
 - **Quantum Researchers**: For making complex concepts accessible
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/your-username/quantum-encryption-story/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/quantum-encryption-story/discussions)
-- **Email**: support@quantumencryption.dev
 
 ---
 
